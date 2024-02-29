@@ -1,0 +1,60 @@
+p{
+    color: brown;
+    text-align: justify;
+    font-size: 12pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    /* background-image: url(/Tugas3/img/download\ \(1\).jpg);
+    background-size: cover; */
+    background-color: aliceblue;
+}
+
+fieldset, legend{
+    border-radius: 15px;
+}
+
+legend{
+    padding: 10px;
+    background-color: brown;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 14pt;
+}
+table{
+    border: 10px;
+    margin: auto;
+}
+tr{
+    padding: 5px;
+    border: 1px solid green;
+    
+}
+tr:hover{
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+#paragraf{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    color: aqua;
+}
+
+a.item:link, a.item:visited, a.item:active{
+    text-decoration: none;
+    list-style: none;
+    padding: 3px 3px;
+    background-color: wheat;
+}
+.item1{
+    display: block;
+    float: left;
+    margin: 3 4;
+}

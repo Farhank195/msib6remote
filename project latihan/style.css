@@ -1,0 +1,43 @@
+body{
+    margin: 8px;
+    background-color: rgb(240,242,245);
+}
+
+header{
+    text-align: center;
+}
+
+header img{
+    height: 100px;    
+
+}
+
+form{
+    margin: 0 auto 30px auto;
+    /* padding: 6px 16px 6px 16px; */
+    background-color: white;
+    width: 432px;
+    border-radius: 8px 8px;
+    box-shadow: 2px 4px 21px 1px rgba(53, 51, 51, 0.125);
+}
+.hform{
+    border-radius: 8px 8px 0 0;
+    padding: 16px 10px;
+    /* line-height: 16px; */
+    text-align: center;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hform h1{
+    margin: 0;
+    font-size: 25px;
+    line-height: 32px;
+}
+
+.hform p{
+    margin:0;
+    font-size: 15px;
+    color: rgb(96, 103, 112);
+    line-height: 24px;
+}
